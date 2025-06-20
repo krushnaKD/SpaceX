@@ -4,7 +4,7 @@ import Home from './components/Home'
 
 const App = () => {
   return (
-    <div className='w-full h-screen'>
+    <div className='w-full h-full'>
       <Home/>
     </div>
   )
