@@ -1,12 +1,12 @@
 @import "tailwindcss";
 
 @font-face {
-    font-family: "kdfont";
-    src: url("/public/D-DIN.woff2") format("truetype");
-    font-weight: normal;
-    font-style: normal;
+  font-family: "kdfont";
+  src: url("/D-DIN.woff2") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 
-body{
-    font-family: "kdfont";
+body {
+  font-family: "kdfont";
 }
